@@ -1,0 +1,1 @@
+{"id":"34986","name":"Doner Kebab","transitionsToward":[{"targetID":"34985","newActorID":"34986","newTargetID":"236","hand":true}],"transitionsAway":[],"transitionsTimed":[],"foodValue":[2,18],"numUses":2,"craftable":false,"size":1,"minPickupAge":3,"sounds":[661],"techTree":[{"id":"34985","nodes":[{"id":"34984","nodes":[{"id":"34084","nodes":[]},{"id":"34983","nodes":[]}]}]}]}

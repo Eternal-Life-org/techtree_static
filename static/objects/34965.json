@@ -1,0 +1,1 @@
+{"id":"34965","name":"Rubber Tree -  Generate","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"34965","newTargetID":"2135","newTargetWeight":0.7,"decay":"1s"},{"targetID":"34965","newTargetID":"10483","newTargetWeight":0.15,"decay":"1s"},{"targetID":"34965","newTargetID":"34958","newTargetWeight":0.15,"decay":"1s"}],"craftable":false}

@@ -1,1 +1,1 @@
-{"id":"4704","name":"熊帽_allbearhatfixed_all","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"minPickupAge":3}
+{"id":"4704","name":"熊帽_allbearhatfixed_all","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"4704","newTargetID":"4652","decay":"1s"}],"craftable":false,"minPickupAge":3}

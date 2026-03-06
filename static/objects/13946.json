@@ -1,1 +1,1 @@
-{"id":"13946","name":"大镰刀Scythe","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"deadlyDistance":1,"minPickupAge":3}
+{"id":"13946","name":"大镰刀Scythe","transitionsToward":[{"targetID":"34672","newTargetID":"13946","decay":"1m"}],"transitionsAway":[{"actorID":"13946","newActorID":"13946","newTargetID":"752","newExtraTargetID":"752","targetPlayer":true,"hand":true,"tool":true}],"transitionsTimed":[],"craftable":false,"deadlyDistance":1,"minPickupAge":3,"techTree":[{"decay":"1m"},{"id":"34672","nodes":null}]}

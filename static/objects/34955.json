@@ -1,0 +1,1 @@
+{"id":"34955","name":"Dromedary with Bridle","transitionsToward":[{"targetID":"34954","newActorID":"4448","newTargetID":"34955","hand":true}],"transitionsAway":[{"targetID":"34955","newActorID":"4448","newTargetID":"4431","hand":true}],"transitionsTimed":[],"craftable":false,"speedMult":0.5,"techTree":[{"id":"34954","nodes":null}]}
