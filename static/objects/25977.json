@@ -1,1 +1,1 @@
-{"id":"25977","name":"Lab Table with Charcoal","transitionsToward":[],"transitionsAway":[{"targetID":"25977","newActorID":"25978","newTargetID":"25980","hand":true}],"transitionsTimed":[],"craftable":false,"blocksWalking":true,"sounds":[588,591,594,595]}
+{"id":"25977","name":"木炭实验台Lab Table with Charcoal","transitionsToward":[],"transitionsAway":[{"targetID":"25977","newActorID":"25978","newTargetID":"25980","hand":true}],"transitionsTimed":[],"craftable":false,"blocksWalking":true,"sounds":[588,591,594,595]}

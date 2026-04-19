@@ -1,1 +1,1 @@
-{"id":"35094","name":"Chemical Work Bench -  Fractional Packaging","transitionsToward":[],"transitionsAway":[{"targetID":"35094","newTargetID":"31762","hand":true,"tool":true}],"transitionsTimed":[],"craftable":false,"blocksWalking":true,"sounds":[691]}
+{"id":"35094","name":"化工工作台Chemical Work Bench -  Fractional Packaging","transitionsToward":[],"transitionsAway":[{"targetID":"35094","newTargetID":"31762","hand":true,"tool":true}],"transitionsTimed":[],"craftable":false,"blocksWalking":true,"sounds":[691]}
