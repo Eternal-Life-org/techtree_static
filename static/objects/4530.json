@@ -1,1 +1,1 @@
-{"id":"4530","name":"装有麦芽浆的啤酒厂Distillery with Mash  - firewood1","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"4530","newTargetID":"33767","decay":"1s"}],"craftable":false,"blocksWalking":true,"sounds":[411]}
+{"id":"4530","name":"装有麦芽浆的啤酒厂Distillery with Mash -  1柴火","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"4530","newTargetID":"33767","decay":"1s"}],"craftable":false,"blocksWalking":true,"sounds":[411]}

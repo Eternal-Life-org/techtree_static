@@ -1,1 +1,1 @@
-{"id":"7569","name":"（已过时）(outdated) Locked Pine Door -  installed vert $20","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"7569","newTargetID":"33767","decay":"1s"}],"craftable":false,"insulation":0.75,"blocksWalking":true,"sounds":[78]}
+{"id":"7569","name":"（已过时）(outdated) Locked Pine Door -  nstalled vert $20","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"7569","newTargetID":"33767","decay":"1s"}],"craftable":false,"insulation":0.75,"blocksWalking":true,"sounds":[78]}

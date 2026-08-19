@@ -1,1 +1,1 @@
-{"id":"13246","name":"带木桩的苹果树Staked Apple Tree  - justStaked","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"13246","newTargetID":"33761","decay":"1s"}],"craftable":false,"blocksWalking":true,"sounds":[69]}
+{"id":"13246","name":"带木桩的苹果树Staked Apple Tree -  justStaked","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"13246","newTargetID":"33761","decay":"1s"}],"craftable":false,"blocksWalking":true,"sounds":[69]}

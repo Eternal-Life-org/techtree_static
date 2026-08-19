@@ -1,1 +1,1 @@
-{"id":"4783","name":"熟煎饼Cooked Flapjacks  - 3 honeyed","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"4783","newTargetID":"33767","decay":"1s"}],"foodValue":[13,0],"craftable":false,"minPickupAge":3,"sounds":[369,661]}
+{"id":"4783","name":"熟煎饼Cooked Flapjacks -  3 honeyed","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"4783","newTargetID":"33767","decay":"1s"}],"foodValue":[13,0],"craftable":false,"minPickupAge":3,"sounds":[369,661]}

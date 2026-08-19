@@ -1,1 +1,1 @@
-{"id":"33969","name":"test","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false}
+{"id":"33969","name":"test","transitionsToward":[],"transitionsAway":[{"actorID":"33969","targetID":"32386","newTargetID":"32387","hand":true},{"actorID":"33969","targetID":"32387","newTargetID":"32386","hand":true}],"transitionsTimed":[{"targetID":"33969","newTargetID":"35126","decay":"2s"}],"craftable":false}

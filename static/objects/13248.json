@@ -1,1 +1,1 @@
-{"id":"13248","name":"质押柠檬树Staked Lemon Tree  - justStaked","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"13248","newTargetID":"33761","decay":"1s"}],"craftable":false,"blocksWalking":true,"sounds":[69]}
+{"id":"13248","name":"质押柠檬树Staked Lemon Tree -  justStaked","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"13248","newTargetID":"33761","decay":"1s"}],"craftable":false,"blocksWalking":true,"sounds":[69]}

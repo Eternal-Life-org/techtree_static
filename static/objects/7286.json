@@ -1,1 +1,1 @@
-{"id":"7286","name":"（已过时）(outdated) Lock $20  - gold","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"7286","newTargetID":"33773","decay":"1s"}],"craftable":false,"size":1,"minPickupAge":3,"sounds":[890]}
+{"id":"7286","name":"（已过时）(outdated) Lock $20 -  gold","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"7286","newTargetID":"33773","decay":"1s"}],"craftable":false,"size":1,"minPickupAge":3,"sounds":[890]}

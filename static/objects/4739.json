@@ -1,1 +1,1 @@
-{"id":"4739","name":"麻袋Burlap Sack  - flour 1","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"4739","newTargetID":"33767","decay":"1s"}],"craftable":false,"size":2,"minPickupAge":3}
+{"id":"4739","name":"麻袋Burlap Sack -  flour 1","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"4739","newTargetID":"33767","decay":"1s"}],"craftable":false,"size":2,"minPickupAge":3}

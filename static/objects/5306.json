@@ -1,1 +1,1 @@
-{"id":"5306","name":"一堆柴火Firewood Stack  - 4","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"5306","newTargetID":"33764","decay":"1s"}],"craftable":false,"size":2,"minPickupAge":3,"speedMult":0.25}
+{"id":"5306","name":"一堆柴火Firewood Stack -  4","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"5306","newTargetID":"33764","decay":"1s"}],"craftable":false,"size":2,"minPickupAge":3,"speedMult":0.25}

@@ -1,1 +1,1 @@
-{"id":"7272","name":"（已过时）(outdated) Lock $20  - copper","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"7272","newTargetID":"33773","decay":"1s"}],"craftable":false,"size":1,"minPickupAge":3,"sounds":[890]}
+{"id":"7272","name":"（已过时）(outdated) Lock $20 -  copper","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"7272","newTargetID":"33773","decay":"1s"}],"craftable":false,"size":1,"minPickupAge":3,"sounds":[890]}

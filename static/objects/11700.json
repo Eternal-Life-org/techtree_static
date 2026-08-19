@@ -1,1 +1,1 @@
-{"id":"11700","name":"（已过时）(outdated) Mine Shaft  - exhausted explosion","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"11700","newTargetID":"31093","decay":"1s"}],"craftable":false,"blocksWalking":true,"sounds":[373]}
+{"id":"11700","name":"（已过时）(outdated) Mine Shaft -  exhausted explosion","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"11700","newTargetID":"31093","decay":"1s"}],"craftable":false,"blocksWalking":true,"sounds":[373]}
