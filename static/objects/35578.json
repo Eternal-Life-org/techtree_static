@@ -1,0 +1,1 @@
+{"id":"35578","name":"运行中的链锯Running Chainsaw","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"35578","newTargetID":"35577","decay":"1m"}],"craftable":false,"speedMult":1.5,"sounds":[482]}

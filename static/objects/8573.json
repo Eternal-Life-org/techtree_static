@@ -1,1 +1,1 @@
-{"id":"8573","name":"蘑菇Mushroom","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"foodValue":[1,0],"craftable":false,"size":1,"minPickupAge":3,"sounds":[147,41]}
+{"id":"8573","name":"蘑菇Mushroom","transitionsToward":[],"transitionsAway":[{"actorID":"35615","targetID":"8573","newTargetID":"35616"}],"transitionsTimed":[],"foodValue":[1,0],"craftable":false,"size":1,"minPickupAge":3,"sounds":[147,41]}
