@@ -1,0 +1,1 @@
+{"id":"35917","name":"串起来的仙人掌Skewered Cactus","transitionsToward":[],"transitionsAway":[{"actorID":"35917","targetID":"85","newActorID":"35918","newTargetID":"85","targetRemains":true,"hand":true},{"actorID":"35917","targetID":"13650","newActorID":"35918","newTargetID":"13650","targetRemains":true,"hand":true}],"transitionsTimed":[],"craftable":false,"minPickupAge":3}

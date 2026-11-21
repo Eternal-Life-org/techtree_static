@@ -1,1 +1,1 @@
-{"id":"33222","name":"郁金香裙子Black Linen Tunic -  紫色 稀有","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"clothing":"t","insulation":0.1785,"size":2,"minPickupAge":3,"sounds":[941,286]}
+{"id":"33222","name":"郁金香裙子Black Linen Tunic -  紫色","transitionsToward":[],"transitionsAway":[{"actorID":"35685","targetID":"33222","newActorID":"35685","newTargetID":"33222","targetRemains":true,"hand":true,"tool":true}],"transitionsTimed":[],"craftable":false,"clothing":"t","insulation":0.1785,"size":2,"minPickupAge":3,"sounds":[941,286]}

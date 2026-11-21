@@ -1,0 +1,1 @@
+{"id":"35697","name":"西瓜苗Wet Planted Watermelon Seed","transitionsToward":[{"targetID":"35696","newTargetID":"35697","decay":"2m"}],"transitionsAway":[],"transitionsTimed":[{"targetID":"35697","newTargetID":"848","decay":"2m"}],"craftable":false,"sounds":[297],"techTree":[{"decay":"2m"},{"id":"35696","nodes":null}]}

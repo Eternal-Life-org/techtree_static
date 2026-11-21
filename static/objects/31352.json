@@ -1,1 +1,1 @@
-{"id":"31352","name":"钢桌 -  +useOnContained","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"31352","newTargetID":"28661","decay":"1s"}],"craftable":false,"numSlots":3,"slotSize":2,"blocksWalking":true}
+{"id":"31352","name":"钢桌 - ","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"31352","newTargetID":"28661","decay":"1s"}],"craftable":false,"numSlots":3,"slotSize":2,"blocksWalking":true}

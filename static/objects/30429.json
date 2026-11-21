@@ -1,1 +1,1 @@
-{"id":"30429","name":"中尉29Ltem 29 -  Paper Box","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"clothing":"h","insulation":0.0725,"minPickupAge":3}
+{"id":"30429","name":"中尉29Ltem 29 -  Paper Box","transitionsToward":[],"transitionsAway":[{"actorID":"35685","targetID":"30429","newActorID":"35685","newTargetID":"30429","targetRemains":true,"hand":true,"tool":true}],"transitionsTimed":[],"craftable":false,"clothing":"h","insulation":0.0725,"minPickupAge":3}

@@ -1,1 +1,1 @@
-{"id":"4452","name":"（已过时）蚕茧农场(outdated) Silk Farm","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"4452","newTargetID":"33767","decay":"1s"}],"craftable":false,"minPickupAge":3,"sounds":[69]}
+{"id":"4452","name":"（已过时）蚕茧农场(outdated) Silk Farm","transitionsToward":[],"transitionsAway":[{"actorID":"35686","targetID":"4452","newActorID":"35686","newTargetID":"4452","targetRemains":true,"hand":true,"tool":true}],"transitionsTimed":[{"targetID":"4452","newTargetID":"33767","decay":"1s"}],"craftable":false,"minPickupAge":3,"sounds":[69]}

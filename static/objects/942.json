@@ -1,1 +1,1 @@
-{"id":"942","name":"（已过时） 矿脉(outdated) Ore Vein","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"blocksWalking":true}
+{"id":"942","name":"（已过时） 矿脉(outdated) Ore Vein","transitionsToward":[],"transitionsAway":[{"actorID":"35683","targetID":"942","newActorID":"35683","newTargetID":"942","targetRemains":true,"hand":true,"tool":true}],"transitionsTimed":[],"craftable":false,"blocksWalking":true}

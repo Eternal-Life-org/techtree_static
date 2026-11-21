@@ -1,0 +1,1 @@
+{"id":"35787","name":"菠萝Pineapple Plant","transitionsToward":[{"targetID":"35786","newTargetID":"35787","decay":"5m"}],"transitionsAway":[],"transitionsTimed":[{"targetID":"35787","newTargetID":"35791","decay":"5m"}],"craftable":false,"techTree":[{"decay":"5m"},{"id":"35786","nodes":[{"decay":"5m"},{"id":"35785","nodes":[{"id":"6616","nodes":[]},{"id":"35788","nodes":[]}]}]}]}
